@@ -2,7 +2,9 @@ import React from 'react'
 import axios from 'axios'
 
 //const API_BASE_URL = 'http://localhost:4000'
-const API_BASE_URL = 'https://crud-app-svmb.onrender.com'
+// const API_BASE_URL = 'https://crud-app-svmb.onrender.com'
+
+const API_BASE_URL = 'crud-be-ezky.vercel.app'
 
 
 
